@@ -1,6 +1,6 @@
-streamlit == 0.78.0
-pandas == 1.0.3
+streamlit == 0.82.0
+pandas == 1.2.4
 pandas_datareader == 0.9.0
-scipy == 1.4.1
-numpy == 1.18.1
+scipy == 1.6.3
+numpy == 1.19.5
 matplotlib.pyplot == 3.4.2
